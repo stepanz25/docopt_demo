@@ -1,7 +1,6 @@
 ---
 ---
 ---
-
 ## Individual assignment 1
 
 rubric={correctness:1}
